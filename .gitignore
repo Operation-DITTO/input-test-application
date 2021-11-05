@@ -1,0 +1,4 @@
+*.o
+*.elf
+PARAM.SFO
+EBOOT.PBP
